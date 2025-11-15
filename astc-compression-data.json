@@ -1,0 +1,12 @@
+{
+	"input": "./",
+	"output": "./astc-textures/",
+	"quality": "medium",
+	"blocksize": "10x10",
+	"colorprofile": "cl",
+	"custom": [],
+	"excludes": [
+		"_polymod_icon.png",
+		"images/freeplay/icons/*"
+	]
+}

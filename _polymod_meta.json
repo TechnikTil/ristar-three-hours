@@ -1,0 +1,18 @@
+{
+	"title": "Ristar (5 Hours)",
+	"description": "Ristar Oneshot made in 5 hours",
+	"author": "Luigifan122",
+	"contributors": [
+		{
+			"name": "everyone",
+			"role": "fuck if i know"
+		}
+	],
+	"homepage": null,
+	"api_version": "0.7.5",
+	"mod_version": "1.0.0",
+	"license": "N/A",
+	"metadata": null,
+	"dependencies": null,
+	"optionalDependencies": null
+}

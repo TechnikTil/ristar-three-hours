@@ -1,0 +1,9 @@
+tmp_file.txt
+
+*/.DS_Store
+.DS_Store
+.DS_Store?
+cvs
+thumbs.db
+desktop.ini
+*.hash
