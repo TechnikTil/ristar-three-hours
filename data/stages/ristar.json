@@ -15,15 +15,9 @@
 			"flipY": false,
 			"isPixel": false,
 			"name": "bg",
-			"position": [
-				-320,
-				-180
-			],
+			"position": [-320, -180],
 			"scale": 1,
-			"scroll": [
-				1,
-				1
-			],
+			"scroll": [1, 1],
 			"startingAnimation": "",
 			"zIndex": 0
 		}
@@ -32,55 +26,28 @@
 		"bf": {
 			"alpha": 1,
 			"angle": 0,
-			"cameraOffsets": [
-				-100,
-				-100
-			],
-			"position": [
-				965.5,
-				799
-			],
+			"cameraOffsets": [-100, -100],
+			"position": [965.5, 799],
 			"scale": 1,
-			"scroll": [
-				1,
-				1
-			],
+			"scroll": [1, 1],
 			"zIndex": 300
 		},
 		"dad": {
 			"alpha": 1,
 			"angle": 0,
-			"cameraOffsets": [
-				150,
-				-100
-			],
-			"position": [
-				280.5,
-				799
-			],
+			"cameraOffsets": [150, -100],
+			"position": [280.5, 799],
 			"scale": 1,
-			"scroll": [
-				1,
-				1
-			],
+			"scroll": [1, 1],
 			"zIndex": 200
 		},
 		"gf": {
 			"alpha": 1,
 			"angle": 0,
-			"cameraOffsets": [
-				0,
-				0
-			],
-			"position": [
-				661.5,
-				717
-			],
+			"cameraOffsets": [0, 0],
+			"position": [661.5, 717],
 			"scale": 1,
-			"scroll": [
-				1,
-				1
-			],
+			"scroll": [1, 1],
 			"zIndex": 100
 		}
 	},

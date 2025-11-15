@@ -5,8 +5,5 @@
 	"blocksize": "10x10",
 	"colorprofile": "cl",
 	"custom": [],
-	"excludes": [
-		"_polymod_icon.png",
-		"images/freeplay/icons/*"
-	]
+	"excludes": ["_polymod_icon.png", "images/freeplay/icons/*"]
 }

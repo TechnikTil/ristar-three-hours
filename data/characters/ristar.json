@@ -1,0 +1,89 @@
+{
+	"version": "1.0.1",
+	"renderType": "sparrow",
+	"offsets": [0, 0],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Ristar",
+	"cameraOffsets": [0, 0],
+	"flipX": false,
+	"death": {
+		"cameraZoom": 1,
+		"cameraOffsets": [0, 0],
+		"preTransitionDelay": 0
+	},
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [0, 0],
+		"scale": 1,
+		"flipX": false,
+		"id": "ristar"
+	},
+	"assetPath": "characters/ristar",
+	"generatedBy": "Til (yes im a generator now)",
+	"animations": [
+		{
+			"offsets": [53, -23],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "down",
+			"frameIndices": [],
+			"looped": false,
+			"name": "singDOWN",
+			"flipX": false
+		},
+		{
+			"offsets": [0, 0],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "idle",
+			"frameIndices": [],
+			"looped": false,
+			"name": "idle",
+			"flipX": false
+		},
+		{
+			"offsets": [45, 0],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "left",
+			"frameIndices": [],
+			"looped": false,
+			"name": "singLEFT",
+			"flipX": false
+		},
+		{
+			"offsets": [6, -1],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "right",
+			"frameIndices": [],
+			"looped": false,
+			"name": "singRIGHT",
+			"flipX": false
+		},
+		{
+			"offsets": [-13, 19],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "up",
+			"frameIndices": [],
+			"looped": false,
+			"name": "singUP",
+			"flipX": false
+		},
+		{
+			"offsets": [-1, 6],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "hasta",
+			"frameIndices": [],
+			"looped": false,
+			"name": "hasta",
+			"flipX": false
+		}
+	]
+}
