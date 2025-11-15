@@ -1,0 +1,89 @@
+{
+	"version": "1.0.2",
+	"name": "Ristar Stage",
+	"props": [
+		{
+			"alpha": 1,
+			"angle": 0,
+			"animType": "sparrow",
+			"animations": [],
+			"assetPath": "ristarbg",
+			"blend": "",
+			"color": "#FFFFFF",
+			"danceEvery": 0,
+			"flipX": false,
+			"flipY": false,
+			"isPixel": false,
+			"name": "bg",
+			"position": [
+				-320,
+				-180
+			],
+			"scale": 1,
+			"scroll": [
+				1,
+				1
+			],
+			"startingAnimation": "",
+			"zIndex": 0
+		}
+	],
+	"characters": {
+		"bf": {
+			"alpha": 1,
+			"angle": 0,
+			"cameraOffsets": [
+				-100,
+				-100
+			],
+			"position": [
+				965.5,
+				799
+			],
+			"scale": 1,
+			"scroll": [
+				1,
+				1
+			],
+			"zIndex": 300
+		},
+		"dad": {
+			"alpha": 1,
+			"angle": 0,
+			"cameraOffsets": [
+				150,
+				-100
+			],
+			"position": [
+				280.5,
+				799
+			],
+			"scale": 1,
+			"scroll": [
+				1,
+				1
+			],
+			"zIndex": 200
+		},
+		"gf": {
+			"alpha": 1,
+			"angle": 0,
+			"cameraOffsets": [
+				0,
+				0
+			],
+			"position": [
+				661.5,
+				717
+			],
+			"scale": 1,
+			"scroll": [
+				1,
+				1
+			],
+			"zIndex": 100
+		}
+	},
+	"cameraZoom": 0.9,
+	"directory": "shared"
+}
